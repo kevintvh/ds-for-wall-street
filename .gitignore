@@ -3,4 +3,7 @@
 *.iml
 *.DS_Store
 .idea/*
-
+.ipynb_checkpoints/
+build/
+dist/
+tsanalysis.egg-info/
